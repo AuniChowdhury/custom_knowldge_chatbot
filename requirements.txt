@@ -1,0 +1,8 @@
+langchain
+openai
+unstructured
+faiss-cpu
+gradio
+streamlit
+streamlit-chat
+pdfminer.six
